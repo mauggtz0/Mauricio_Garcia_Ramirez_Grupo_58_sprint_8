@@ -39,4 +39,4 @@ pytest create_user_test.py
 | 7 | firstName con dígitos | 400 ❌ |
 | 8 | Sin parámetro firstName | 400 ❌ |
 | 9 | firstName vacío | 400 ❌ |
-| 10 | firstName tipo número | 400 ❌ |
+| 10 | firstName tipo número | 400 ❌ |## Actualización de prueba
